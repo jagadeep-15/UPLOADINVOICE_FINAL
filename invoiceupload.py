@@ -34,6 +34,6 @@ if uploaded_file is not None:
         st.write("Uploaded file type is not supported. Please upload an Excel or JSON file.")
 
 # Sidebar content
-st.sidebar.image("sba.png", use_column_width=True)
+st.sidebar.image("SBA.png", use_column_width=True)
 st.sidebar.markdown("# Invoice Upload App")
 st.sidebar.markdown("Use this app to upload and view your invoices.")
