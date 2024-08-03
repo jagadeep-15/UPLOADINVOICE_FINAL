@@ -35,5 +35,4 @@ if uploaded_file is not None:
 
 # Sidebar content
 st.sidebar.image("SBA.png", use_column_width=True)
-st.sidebar.markdown("# Invoice Upload App")
-st.sidebar.markdown("Use this app to upload and view your invoices.")
+
